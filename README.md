@@ -1,5 +1,6 @@
 # Epitech projects
 ================================================================================
+
 Some projects I did during my first year at Epitech
 
 
@@ -19,7 +20,9 @@ A maze generator and solver in text format
 ```
 
 x : lenght of the maze (x > 0),
+
 y : width of the maze (y > 0),
+
 perfect (optional) : create a perfect or imperfect maze.
 
 ```bash
