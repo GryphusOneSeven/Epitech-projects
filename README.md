@@ -61,8 +61,9 @@ The main challenge for this game is to create a complete product using everythin
 
 Team :
 
-    - Florian DAJON ([darkcat974](https://github.com/darkcat974))
-    - Florian AH-YANE ([DarksZ974](https://github.com/DarksZ974))
+Florian DAJON ([darkcat974](https://github.com/darkcat974))
+
+Florian AH-YANE ([DarksZ974](https://github.com/DarksZ974))
 
 The skills to be aquired are :
 
