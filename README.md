@@ -55,7 +55,7 @@ maze.txt : the maze in text format
 
 ## my_rpg
 A Role-Playing Game (RPG) programmed in C using CSFML.
-The main challenge for this game is to create a complete product using everything that you and your team know.
+The main challenge for this game is to create a complete product using everything that me and my team knows.
 
 Team :
 
