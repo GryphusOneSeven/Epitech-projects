@@ -4,7 +4,8 @@
 Some projects I did during my first year at Epitech
 
 ## Minishell
-A UNIX command interpreter programmed in C
+A UNIX command interpreter programmed in C.
+
 The reference shell is TCSH
 
 The skills to be aquired are :
@@ -55,6 +56,7 @@ maze.txt : the maze in text format
 
 ## my_rpg
 A Role-Playing Game (RPG) programmed in C using CSFML.
+
 The main challenge for this game is to create a complete product using everything that me and my team knows.
 
 Team :
